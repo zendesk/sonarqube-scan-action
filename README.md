@@ -1,7 +1,10 @@
 # Disclaimer
 This is a Zendesk maintained repository cloned from [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action). This repository is not updated from upstreame master breanch, instead it is updated from the latest tag from the SonarSource/sonarqube-scan-action.
 
-# Recommended Use within Zendesk
+# Current Rebase
+The code is currently rebased with tag `v5.3.1`
+
+## Recommended Use within Zendesk
 It is exepected that the Zendesk teams to use `sonarqube-scan-action` like below:
 ```
  - name: SonarQube Scan
